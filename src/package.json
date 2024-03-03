@@ -1,0 +1,48 @@
+{
+  "name": "@phuonganh68142/react-native-colorpicker",
+  "version": "0.0.19",
+  "description": "Color components for React Native. JavaScript-only, for iOS and Android.",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phuonganh68142/react-native-colorpicker"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "dialog",
+    "pop-up",
+    "popup",
+    "modal",
+    "color",
+    "picker"
+  ],
+  "author": {
+    "name": "phuonganh68142",
+    "email": "quocntrivn@ymail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phuonganh68142/react-native-colorpicker/issues"
+  },
+  "homepage": "https://github.com/phuonganh68142/react-native-colorpicker#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-native-slider": "^0.11.0",
+    "tinycolor2": "^1.4.1",
+    "@phuonganh68142/teatestnet2":"0.0.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
