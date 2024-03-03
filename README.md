@@ -49,7 +49,3 @@ Or, if you use npm, `npm i --save react-native-color`.
 * Support for themes/render customizations
 * Export separate components for a build-your-own philosophy
 * Type with [Flow](https://flow.org/)
-
-## Contact
-
-[Tweet me @wolfgangadm](https://twitter.com/wolfgangadm)
